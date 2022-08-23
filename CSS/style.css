@@ -114,7 +114,6 @@ li {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* gap: rem; */
   width: 250px;
   text-align: center;
 }
